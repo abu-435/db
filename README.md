@@ -1,2 +1,5 @@
 # db
-array
+array={
+"id":1,
+"name":"abu"
+}
